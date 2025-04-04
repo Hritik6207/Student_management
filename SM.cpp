@@ -5,6 +5,7 @@
 class Student {
 private:
 
+
     std::string name;
     float roll1;
 
