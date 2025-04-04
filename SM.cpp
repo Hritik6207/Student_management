@@ -5,7 +5,7 @@
 class Student {
 private:
     std::string name;
-    float roll;
+    float roll1;
     float marks[3];
 
 public:
