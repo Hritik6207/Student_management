@@ -8,7 +8,6 @@ private:
 
     std::string name;
     float roll1;
-
     float marks[3];
 
 public:
