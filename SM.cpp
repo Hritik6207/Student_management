@@ -8,7 +8,6 @@ private:
     float roll1;
     float marks[3];
 
-
 public:
     void input() {
         std::cout << "Enter name: ";
